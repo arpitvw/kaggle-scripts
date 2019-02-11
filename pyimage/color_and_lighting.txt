@@ -1,0 +1,16 @@
+color spaces
+RBG       Red Green Blue(white will come when 
+HSV       Hue(color->Red blue green) Saturation(whiteness in the color) Value(density or value of color ) 
+L*a*b -->
+        L-channel: The “lightness” of the pixel. This value goes up and down the vertical axis, white to black, with neutral grays at the
+        center of the axis.
+        a-channel: Originates from the center of the L-channel and defines pure green on one end of the spectrum and pure red on the other.
+        b-channel: Also originates from the center of the L-channel, but is perpendicular to the a-channel. The b-channel defines pure blue at
+        one of the spectrum and pure yellow at the other.
+        
+Grayscale : single channel image (value ranges from 0 to 255)
+black and white (value either 0 or 255
+0--> dark 
+1--> light
+
+https://gurus.pyimagesearch.com/lessons/lighting-and-color-spaces/

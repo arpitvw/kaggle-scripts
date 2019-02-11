@@ -1,0 +1,21 @@
+column name,Data Type,min_value,max_value,Frequency,NaN count
+Period,object,18,18,1,0
+Org_code,object,3,3,1,0
+Org_name,object,28,28,1,0
+Commissioner_code,object,3,3,1,0
+Commissioner_name,object,16,16,1,0
+Description,object,33,33,1,0
+Azpu_Gt0001_SUM,int32,0,0,1,0
+Azpu_Gt0102_SUM,int32,0,0,1,0
+Azpu_Gt0203_SUM,object,1,1,1,0
+Azpu_Gt0304_SUM,int32,0,0,1,0
+Azpu_Gt0405_SUM,int32,0,0,1,0
+Azpu_Gt0506_SUM,int32,0,0,1,0
+Azpu_Gt0607_SUM,int32,0,0,1,0
+Azpu_Gt0708_SUM,int32,0,0,1,0
+Azpu_Gt0809_SUM,int32,-1,-1,1,0
+Azpu_Gt0910_SUM,int32,0,0,1,0
+Azpu_Gt1011_SUM,int32,2136,2136,1,0
+Azpu_Gt1112_SUM,int32,0,0,1,0
+Azpu_Gt12plus_SUM,int32,0,0,1,0
+Azpu_Eiptotal_SUM,int32,0,0,1,0
